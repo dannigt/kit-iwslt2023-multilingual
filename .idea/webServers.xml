@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5824d1ef-372b-4eb8-a17a-fb2eb8a1f1e5" name="i13hpc1.ira.uka.de">
+        <fileTransfer rootFolder="/project/OML/dliu" accessType="SFTP" host="i13hpc1.ira.uka.de" port="22" sshConfigId="6a469928-5de3-4e7a-bce2-0a01f4161177" sshConfig="dliu@i13hpc1.ira.uka.de:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="i13hpc1.ira.uka.de" id="6a469928-5de3-4e7a-bce2-0a01f4161177" port="22" nameFormat="DESCRIPTIVE" username="dliu" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
