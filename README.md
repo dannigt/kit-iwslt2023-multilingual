@@ -18,7 +18,7 @@ To use kNN-MT, set up according to the dependency versions [here](https://github
 ### Data
 The multilingual system was trained on ~570M sentence pairs (after data augmentation).
 
-As data of this volume is difficult to host, we provide the [binarized data](https://bwsyncandshare.kit.edu/s/Gow9Z6X7QNMtrwy) (can be directly used for fairseq).
+As data of this volume is difficult to host, we provide the binarized data ([train](https://bwsyncandshare.kit.edu/s/Gow9Z6X7QNMtrwy), [dev](https://bwsyncandshare.kit.edu/s/WYy4fHT7H5bfrQq)) that can be directly used for fairseq.
 For the original data, please open an issue or reach out by mail, so we could set up individual data transfers.  
 
 The [dictionary](https://bwsyncandshare.kit.edu/s/eDbnDSLBdkMga6D) and [SPM model](https://github.com/microsoft/unilm/tree/master/deltalm#pretrained-models) are the same as for DeltaLM.
